@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="juiste versie">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +120,7 @@
       <workItem from="1791628377665" duration="1910000" />
       <workItem from="1791631779756" duration="3635000" />
       <workItem from="1791635513288" duration="235000" />
+      <workItem from="1791635776863" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -147,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791635403047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="labo 3">
+      <option name="closed" value="true" />
+      <created>1791635816545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791635816545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,8 +163,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eerste commit" />
     <MESSAGE value="labo 3 klaar" />
-    <MESSAGE value="labo 3" />
     <MESSAGE value="juiste versie" />
-    <option name="LAST_COMMIT_MESSAGE" value="juiste versie" />
+    <MESSAGE value="labo 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="labo 3" />
   </component>
 </project>
