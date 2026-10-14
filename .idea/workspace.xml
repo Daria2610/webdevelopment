@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 3">
-      <change afterPath="$PROJECT_DIR$/labo_4/images/baking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/film.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/fotografie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/running.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/sephora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/images/vogue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/lijstOefLabo_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/likes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/likes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +129,7 @@
       <workItem from="1791635513288" duration="235000" />
       <workItem from="1791635776863" duration="613000" />
       <workItem from="1791917002728" duration="680000" />
-      <workItem from="1791976114374" duration="1351000" />
+      <workItem from="1791976114374" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -172,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791635816545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="labo 3">
+      <option name="closed" value="true" />
+      <created>1791977655727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791977655727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
