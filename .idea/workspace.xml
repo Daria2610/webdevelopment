@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/hobbys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_L4/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_L4/likes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,6 +35,9 @@
     &quot;accountId&quot;: &quot;2d6a62f7-81d0-4e8e-b9e4-b7655a6cbe5d&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -57,6 +58,7 @@
     "JavaScript Debug.lijstOefLabo_2.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_3.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_4.html.executor": "Run",
+    "JavaScript Debug.lijstOefLabo_5.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
     "JavaScript Debug.opdracht_2.html.executor": "Run",
     "JavaScript Debug.opdracht_3.html.executor": "Run",
@@ -77,6 +79,7 @@
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "C:/Users/daria/OneDrive/Documents/GitHub/webdevelopment/labo_4/images",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,7 +87,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,11 +96,11 @@
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_5\opdrachten_L5\css" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\opdrachten_L2" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\opdrachten " />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\images" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_2\images" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_2\opdrachten" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -129,7 +132,11 @@
       <workItem from="1791635513288" duration="235000" />
       <workItem from="1791635776863" duration="613000" />
       <workItem from="1791917002728" duration="680000" />
-      <workItem from="1791976114374" duration="2206000" />
+      <workItem from="1791976114374" duration="3019000" />
+      <workItem from="1792070271970" duration="46000" />
+      <workItem from="1792416129169" duration="1943000" />
+      <workItem from="1792420937461" duration="1000" />
+      <workItem from="1792928956251" duration="6615000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -171,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791977655727</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="labo 3">
+      <option name="closed" value="true" />
+      <created>1791978436581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791978436581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
