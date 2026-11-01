@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 5 (css 1)">
-      <change afterPath="$PROJECT_DIR$/css/stijl_home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/images/icoon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/images/unchecked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/css/css_Oef_5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/css/css_oef_6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/opdracht_6.html" afterDir="false" />
+    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/lijstOefLabo_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/lijstOefLabo_5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,48 +50,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.contactinformatie.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_2.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_3.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_4.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_5.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_6.html.executor": "Run",
-    "JavaScript Debug.opdracht_10.html.executor": "Run",
-    "JavaScript Debug.opdracht_2.html.executor": "Run",
-    "JavaScript Debug.opdracht_3.html.executor": "Run",
-    "JavaScript Debug.opdracht_4.html.executor": "Run",
-    "JavaScript Debug.opdracht_5.html.executor": "Run",
-    "JavaScript Debug.opdracht_6.html.executor": "Run",
-    "JavaScript Debug.opdracht_8.html.executor": "Run",
-    "JavaScript Debug.opdrachtenLabo_2.html.executor": "Run",
-    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
-    "JavaScript Debug.personalHomePage_2.html.executor": "Run",
-    "JavaScript Debug.personalHomepage.html.executor": "Run",
-    "JavaScript Debug.voorbeeld headings.html.executor": "Run",
-    "JavaScript Debug.voorbeeldHeadings.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/daria/OneDrive/Documents/GitHub/webdevelopment/labo_4/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.contactinformatie.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lijstOefLabo_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lijstOefLabo_3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lijstOefLabo_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lijstOefLabo_5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lijstOefLabo_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdrachtenLabo_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.personalHomePage_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.personalHomepage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voorbeeld headings.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voorbeeldHeadings.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/daria/OneDrive/Documents/GitHub/webdevelopment/labo_4/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_4\images" />
@@ -152,7 +143,8 @@
       <workItem from="1793010431905" duration="1000" />
       <workItem from="1793192055573" duration="2632000" />
       <workItem from="1793379811964" duration="1677000" />
-      <workItem from="1793533804342" duration="4681000" />
+      <workItem from="1793533804342" duration="4706000" />
+      <workItem from="1793547431562" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -210,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792949948555</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="labo 6">
+      <option name="closed" value="true" />
+      <created>1793547228713</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1793547228714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +222,7 @@
     <MESSAGE value="juiste versie" />
     <MESSAGE value="labo 3" />
     <MESSAGE value="labo 5 (css 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="labo 5 (css 1)" />
+    <MESSAGE value="labo 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="labo 6" />
   </component>
 </project>
