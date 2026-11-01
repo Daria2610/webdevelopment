@@ -1,0 +1,98 @@
+/* Homepage Web Development 1 */
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #f4efe9;
+    color: #2b2d42;
+    margin: 0;
+}
+
+/* Titelblok bovenaan */
+header {
+    background-color: #2b2d42;
+    color: #edf2f4;
+    padding: 50px 30px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 10px 0;
+    font-size: 2.6em;
+}
+
+header p {
+    margin: 0;
+    color: #8d99ae;
+}
+
+/* Inhoud */
+main {
+    padding: 40px 30px;
+    text-align: center;
+}
+
+main h2 {
+    margin-top: 0;
+    font-size: 1.6em;
+}
+
+/* Lijst met kaartjes */
+.labos {
+    list-style: none;
+    padding-left: 0;
+}
+
+.labos li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.labos a {
+    display: block;
+    width: 150px;
+    padding: 25px 15px;
+    background-color: #ffffff;
+    color: #2b2d42;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid #8d99ae;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+.labos a:hover {
+    background-color: #ef233c;
+    border-color: #ef233c;
+    color: #ffffff;
+}
+
+.nummer {
+    display: block;
+    font-size: 2.4em;
+    color: #ef233c;
+}
+
+.titel {
+    display: block;
+    margin-top: 8px;
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #8d99ae;
+}
+
+.labos a:hover .nummer,
+.labos a:hover .titel {
+    color: #ffffff;
+}
+
+/* Voetblok */
+footer {
+    background-color: #2b2d42;
+    color: #8d99ae;
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 0.85em;
+}
+
+footer p {
+    margin: 0;
+}

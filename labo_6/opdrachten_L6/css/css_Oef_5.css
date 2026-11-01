@@ -1,0 +1,11 @@
+a {
+    background-image: url("../../images/icoon.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+
+    /*icoon te groot dus ik maak het 16 x 16px*/
+    background-size: 16px 16px;
+
+    /*ruimte maken links zodat de tekst niet over het icoon gaat*/
+    padding-left: 20px;
+}

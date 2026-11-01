@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 3">
+    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 5 (css 1)">
+      <change afterPath="$PROJECT_DIR$/css/stijl_home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/images/icoon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/images/unchecked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/css/css_Oef_5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/css/css_oef_6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdrachten_L6/opdracht_6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_5/lijstOefLabo_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/lijstOefLabo_5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +68,13 @@
     "JavaScript Debug.lijstOefLabo_3.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_4.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_5.html.executor": "Run",
+    "JavaScript Debug.lijstOefLabo_6.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
     "JavaScript Debug.opdracht_2.html.executor": "Run",
     "JavaScript Debug.opdracht_3.html.executor": "Run",
     "JavaScript Debug.opdracht_4.html.executor": "Run",
     "JavaScript Debug.opdracht_5.html.executor": "Run",
+    "JavaScript Debug.opdracht_6.html.executor": "Run",
     "JavaScript Debug.opdracht_8.html.executor": "Run",
     "JavaScript Debug.opdrachtenLabo_2.html.executor": "Run",
     "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
@@ -96,11 +107,11 @@
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\css" />
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_6\images" />
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_6\opdrachten_L6" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_5\opdrachten_L5\css" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\opdrachten_L2" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\opdrachten " />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3\images" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_2\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -137,6 +148,11 @@
       <workItem from="1792416129169" duration="1943000" />
       <workItem from="1792420937461" duration="1000" />
       <workItem from="1792928956251" duration="6615000" />
+      <workItem from="1792949904675" duration="112000" />
+      <workItem from="1793010431905" duration="1000" />
+      <workItem from="1793192055573" duration="2632000" />
+      <workItem from="1793379811964" duration="1677000" />
+      <workItem from="1793533804342" duration="4681000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -186,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791978436581</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="labo 5 (css 1)">
+      <option name="closed" value="true" />
+      <created>1792949948555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1792949948555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +221,7 @@
     <MESSAGE value="labo 3 klaar" />
     <MESSAGE value="juiste versie" />
     <MESSAGE value="labo 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="labo 3" />
+    <MESSAGE value="labo 5 (css 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="labo 5 (css 1)" />
   </component>
 </project>

@@ -1,0 +1,22 @@
+/* Opdracht 6: checklist met icoontjes via achtergrondafbeeldingen */
+.checklist {
+    /* Standaard bolletjes en ingesprongen lijst weghalen */
+    list-style: none;
+    padding-left: 0;
+}
+
+.checklist li {
+    /* Standaard: leeg vakje voor items zonder class "checked" */
+    background-image: url("../../images/unchecked.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px;
+    /* Ruimte links vrijmaken voor het icoontje */
+    padding-left: 25px;
+    margin-bottom: 6px;
+}
+
+.checklist li.checked {
+    /* Aangevinkte items krijgen het vakje met vinkje */
+    background-image: url("../../images/check.png");
+}
