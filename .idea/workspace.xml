@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 6">
-      <change afterPath="$PROJECT_DIR$/labo_7/images/baking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/film.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/fotografie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/running.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/sephora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/images/vogue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/opdrachten_L7/kalender.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/opdrachten_L7/personalHomepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/opdrachten_L7/styles/kalender.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/opdrachten_L7/styles/styles.css" afterDir="false" />
+    <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stijl_home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stijl_home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7/lijstOefLabo_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/lijstOefLabo_7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +62,7 @@
     "JavaScript Debug.lijstOefLabo_4.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_5.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_6.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_7.html.executor": "Run",
+    "JavaScript Debug.lijstOefLabo_7.html.executor": "Debug",
     "JavaScript Debug.natureBlog.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
     "JavaScript Debug.opdracht_2.html.executor": "Run",
@@ -122,6 +110,16 @@
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_6\opdrachten_L6" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="lijstOefLabo_7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/labo_7/lijstOefLabo_7.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lijstOefLabo_7.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,7 +164,7 @@
       <workItem from="1793902560763" duration="2000" />
       <workItem from="1794231452915" duration="4466000" />
       <workItem from="1794407104453" duration="3456000" />
-      <workItem from="1794480080555" duration="10674000" />
+      <workItem from="1794480080555" duration="11207000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -240,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793547551001</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="labo 7">
+      <option name="closed" value="true" />
+      <created>1794510125201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1794510125201</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +259,7 @@
     <MESSAGE value="labo 3" />
     <MESSAGE value="labo 5 (css 1)" />
     <MESSAGE value="labo 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="labo 6" />
+    <MESSAGE value="labo 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="labo 7" />
   </component>
 </project>
