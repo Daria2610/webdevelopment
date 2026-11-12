@@ -1,0 +1,74 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.7em;
+    background-color: white;
+    margin: 8px;
+}
+
+/* De pagina is exact 95% breed. Met margin 'auto' links en rechts
+   wordt de resterende 5% gelijk verdeeld en staat de pagina gecentreerd. */
+section {
+    width: 95%;
+    margin: 0 auto;
+}
+
+/* enkel de header die rechtstreeks in section zit */
+section > header {
+    background-image: url("../../images/header.jpg");
+    background-size: cover;
+    height: 97px;
+}
+
+section > header h1 {
+    margin: 0;
+    padding: 2px 10px;
+    color: white;
+    font-size: 3em;
+}
+
+/* Navigatiebalk */
+nav {
+    background-color: #444;
+    color: #bbb;
+    padding: 5px 4px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+nav a {
+    color: #66ff99;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Artikels */
+article {
+    background-color: #eee;
+    margin: 5px 3px 0 3px;
+    padding: 0 6px 6px 6px;
+}
+
+article h2 {
+    margin: 0;
+    padding: 35px 0 30px 0;
+    font-size: 2.2em;
+    color: #444;
+    text-decoration: underline;
+}
+
+article p {
+    margin: 0 0 6px 0;
+}
+
+article footer a {
+    font-size: 0.9em;
+}
+
+/* enkel de footer rechtstreeks in section */
+section > footer {
+    padding: 6px 0;
+    font-size: 0.95em;
+}

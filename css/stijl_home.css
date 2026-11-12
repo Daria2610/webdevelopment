@@ -1,44 +1,54 @@
-/* Homepage Web Development 1 */
+
 body {
-    font-family: Verdana, Arial, sans-serif;
-    background-color: #f4efe9;
-    color: #2b2d42;
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: snow;
+    color: dimgray;
     margin: 0;
 }
 
-/* Titelblok bovenaan */
+/* Titelbalk */
 header {
-    background-color: #2b2d42;
-    color: #edf2f4;
-    padding: 50px 30px;
+    background-color: mistyrose;
+    border-bottom: 3px solid lightpink;
+    padding: 50px 20px;
     text-align: center;
 }
 
 header h1 {
     margin: 0 0 10px 0;
-    font-size: 2.6em;
+    font-size: 2.8em;
+    font-weight: normal;
+    color: palevioletred;
+    letter-spacing: 3px;
 }
 
 header p {
     margin: 0;
-    color: #8d99ae;
+    font-style: italic;
 }
 
 /* Inhoud */
 main {
-    padding: 40px 30px;
+    width: 800px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 40px 0;
     text-align: center;
 }
 
 main h2 {
-    margin-top: 0;
-    font-size: 1.6em;
+    margin: 0 0 20px 0;
+    font-size: 1.8em;
+    font-weight: normal;
+    font-style: italic;
+    color: palevioletred;
 }
 
-/* Lijst met kaartjes */
+/* Kaartjes voor de labo's */
 .labos {
     list-style: none;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .labos li {
@@ -50,49 +60,43 @@ main h2 {
     display: block;
     width: 150px;
     padding: 25px 15px;
-    background-color: #ffffff;
-    color: #2b2d42;
+    color: dimgray;
     text-decoration: none;
-    font-weight: bold;
-    border: 2px solid #8d99ae;
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    background-color: white;
+    border: 1px solid lightpink;
+    outline: 5px solid mistyrose;
 }
 
 .labos a:hover {
-    background-color: #ef233c;
-    border-color: #ef233c;
-    color: #ffffff;
+    background-color: lightpink;
+    color: white;
 }
 
 .nummer {
     display: block;
-    font-size: 2.4em;
-    color: #ef233c;
+    font-size: 2.6em;
+    font-style: italic;
+    color: palevioletred;
 }
 
 .titel {
     display: block;
     margin-top: 8px;
     font-size: 0.8em;
-    font-weight: normal;
-    color: #8d99ae;
+    font-style: italic;
+    color: darkgray;
 }
 
 .labos a:hover .nummer,
 .labos a:hover .titel {
-    color: #ffffff;
+    color: white;
 }
 
-/* Voetblok */
+/* Voetnoot */
 footer {
-    background-color: #2b2d42;
-    color: #8d99ae;
-    padding: 20px 30px;
+    background-color: mistyrose;
+    border-top: 3px solid lightpink;
     text-align: center;
-    font-size: 0.85em;
-}
-
-footer p {
-    margin: 0;
+    padding: 5px 0;
+    font-size: 0.8em;
 }

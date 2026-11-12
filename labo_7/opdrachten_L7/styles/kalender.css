@@ -1,0 +1,37 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px dotted black;
+    padding: 1px 3px;
+}
+
+/* Maandhoofding */
+th.maand {
+    background-color: rgb(170, 170, 200);
+}
+
+/* Daghoofding */
+.dagen th {
+    color: rgb(200, 190, 240);
+    background-color: rgb(35, 37, 70);
+}
+
+/* Weekends zonder aparte class: eerste kolom (zondag) en laatste kolom (zaterdag) */
+td:first-child,
+td:last-child {
+    background-color: rgb(255, 220, 220);
+}
+
+/* Dagen van een vorige/volgende maand: grijs */
+td.andere {
+    background-color: silver;
+    color: gray;
+}
+
+/* Feestdagen: als laatste, zodat ze ook de weekendkleur overschrijven */
+td.feestdag {
+    background-color: rgb(250, 120, 120);
+}

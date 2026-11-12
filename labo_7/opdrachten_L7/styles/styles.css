@@ -1,0 +1,173 @@
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: snow;
+    color: dimgray;
+    margin: 0;
+    line-height: 1.5em;
+}
+
+/* Titelbalk */
+header {
+    background-color: mistyrose;
+    border-bottom: 3px solid lightpink;
+    padding: 40px 20px 0 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 20px 0;
+    font-size: 2.8em;
+    font-weight: normal;
+    color: palevioletred;
+    letter-spacing: 3px;
+}
+
+/* Navigatie */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 12px 22px;
+    color: dimgray;
+    text-decoration: none;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    background-color: lightpink;
+    color: white;
+}
+
+/* Inhoud: smalle gecentreerde kolom */
+main {
+    width: 800px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+section {
+    padding: 25px 0;
+    border-bottom: 1px dotted lightpink;
+}
+
+section h2 {
+    margin: 0 0 15px 0;
+    font-size: 1.8em;
+    font-weight: normal;
+    font-style: italic;
+    color: palevioletred;
+}
+
+a {
+    color: palevioletred;
+}
+
+a:hover {
+    color: dimgray;
+}
+
+/* Hobby's en interesses: foto links, tekst rechts */
+article {
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+article h3 {
+    margin: 0 0 5px 0;
+    color: dimgray;
+}
+
+article figure {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+article p {
+    margin: 0;
+}
+
+/* Afbeeldingen */
+figure {
+    margin: 0;
+}
+
+figcaption {
+    font-size: 0.75em;
+    font-style: italic;
+    color: darkgray;
+    margin-top: 4px;
+    width: 150px;
+}
+
+img {
+    border: 6px solid white;
+    outline: 1px solid lightpink;
+}
+
+/* Prognosetabel */
+section#prognose table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+}
+
+#prognose th {
+    background-color: lightpink;
+    color: white;
+    padding: 8px 14px;
+}
+
+#prognose td {
+    padding: 8px 14px;
+    border-bottom: 1px solid mistyrose;
+}
+
+/* Voetnoot */
+footer {
+    background-color: mistyrose;
+    border-top: 3px solid lightpink;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 0.8em;
+}
+
+/* Vriendentabel */
+table.vrienden {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    border: 1px solid lightpink;
+}
+
+.vrienden th {
+    background-color: lightpink;
+    color: white;
+    padding: 8px 14px;
+    text-align: left;
+    border-left: 1px solid mistyrose;
+}
+
+.vrienden td {
+    padding: 8px 14px;
+    border-left: 1px solid mistyrose;
+}
+
+/* Om de andere rij een andere achtergrondkleur */
+.vrienden tr.alt td.onbekend {
+    background-color: red;
+}
+
+.onbekend {
+    background-color: red;
+}
