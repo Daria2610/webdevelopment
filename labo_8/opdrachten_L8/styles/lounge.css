@@ -1,0 +1,88 @@
+/* Opdracht Cocktail bar */
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 126, 126);
+    font-size: 150%;
+}
+
+h2 {
+    color: rgb(0, 126, 126);
+    font-size: 130%;
+}
+
+a {
+    color: inherit;
+}
+
+/* Hoofdinhoud: 70% links */
+#content {
+    float: left;
+    width: 70%;
+}
+
+/* Weekly specials: de rest rechts */
+#elixirs {
+    float: right;
+    width: 29%;
+    box-sizing: border-box;
+    padding: 80px 10px 10px 10px;
+    text-align: center;
+    border: 2px solid rgb(167, 206, 206);
+    background-image: url("../../images/cocktail.gif");
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+/* Elke titel in de rubriek een andere kleur */
+#elixirs h1 { color: black; }
+#elixirs h2:nth-of-type(1) { color: goldenrod; }
+#elixirs h2:nth-of-type(2) { color: sienna; }
+#elixirs h2:nth-of-type(3) { color: crimson; }
+
+/* Links in de rubriek: bruine achtergrond bij hover */
+#elixirs a:hover {
+    background-color: brown;
+    color: white;
+}
+
+/* Het geciteerde blok */
+.color {
+    margin: 30px;
+    padding: 20px;
+    color: rgb(68, 68, 68);
+    background-color: rgb(167, 206, 206);
+    background-image: url("../../images/background.gif");
+    background-repeat: no-repeat;
+    background-position: left center;
+    border: 2px dotted white;
+}
+
+#guarantee {
+    margin: 0 0 0 50px;
+    font-style: italic;
+}
+
+/* Lijst "What's playing at the Lounge" */
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+footer {
+    clear: both;
+    font-size: 0.5em;
+    text-align: center;
+}

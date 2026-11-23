@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+section {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.kolom {
+    border: 1px solid black;
+    padding: 10px;
+}

@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94715ed4-dc36-438a-b5c3-67725b4c5187" name="Changes" comment="labo 7">
+      <change afterPath="$PROJECT_DIR$/labo_8/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/lorem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/lorem_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/loungestart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/styles/lorem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/styles/lorem_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdrachten_L8/styles/lounge.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7/lijstOefLabo_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/lijstOefLabo_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +78,11 @@
     "JavaScript Debug.lijstOefLabo_4.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_5.html.executor": "Run",
     "JavaScript Debug.lijstOefLabo_6.html.executor": "Run",
-    "JavaScript Debug.lijstOefLabo_7.html.executor": "Debug",
+    "JavaScript Debug.lijstOefLabo_7.html.executor": "Run",
+    "JavaScript Debug.lijstOefLabo_8.html.executor": "Run",
+    "JavaScript Debug.lorem.html.executor": "Run",
+    "JavaScript Debug.lorem_2.html.executor": "Run",
+    "JavaScript Debug.loungestart.html.executor": "Run",
     "JavaScript Debug.natureBlog.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
     "JavaScript Debug.opdracht_2.html.executor": "Run",
@@ -76,6 +96,8 @@
     "JavaScript Debug.personalHomePage_2.html.executor": "Run",
     "JavaScript Debug.personalHomepage.html.executor": "Run",
     "JavaScript Debug.voorbeeld headings.html.executor": "Run",
+    "JavaScript Debug.voorbeeld3.html.executor": "Run",
+    "JavaScript Debug.voorbeeld4.html.executor": "Run",
     "JavaScript Debug.voorbeeldHeadings.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +106,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/daria/OneDrive/Documents/GitHub/webdevelopment/labo_7",
+    "last_opened_file_path": "C:/Users/daria/OneDrive/Documents/GitHub/webdevelopment/labo_8",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -98,27 +120,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_8" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_7" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_4\images" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_8\images" />
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_8\opdrachten_L8" />
+      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_8" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_7\images" />
       <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_7\opdrachten_L7" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\css" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_6\images" />
-      <recent name="C:\Users\daria\OneDrive\Documents\GitHub\webdevelopment\labo_6\opdrachten_L6" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="lijstOefLabo_7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/labo_7/lijstOefLabo_7.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.lijstOefLabo_7.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -164,7 +177,12 @@
       <workItem from="1793902560763" duration="2000" />
       <workItem from="1794231452915" duration="4466000" />
       <workItem from="1794407104453" duration="3456000" />
-      <workItem from="1794480080555" duration="11207000" />
+      <workItem from="1794480080555" duration="11934000" />
+      <workItem from="1794750956855" duration="5000" />
+      <workItem from="1794940216651" duration="480000" />
+      <workItem from="1795182623099" duration="2971000" />
+      <workItem from="1795349158270" duration="5872000" />
+      <workItem from="1795380928039" duration="7079000" />
     </task>
     <task id="LOCAL-00001" summary="labo 3 klaar">
       <option name="closed" value="true" />
@@ -246,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794510125201</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="labo 7">
+      <option name="closed" value="true" />
+      <created>1794510573940</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1794510573940</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
